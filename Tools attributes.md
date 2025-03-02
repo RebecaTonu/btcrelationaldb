@@ -14,5 +14,4 @@ This document provides a summary of attributes that can be extracted using vario
 | **BlockSci** ([sota-blocksci](https://github.com/sota-ai/blocksci)) | Height, Hash, Timestamp, Number of Transactions, Size, Version, Merkle Root, Nonce, Difficulty, Previous Block Hash, Inputs, Outputs, Fee, Locktime, Block Height, Block Hash, ScriptSig, Sequence Number, Address, Spent, Spent By Transaction Hash, Spent By Input Index, Type, Balance, Associated Transactions, Total Received, Total Sent, First Seen, Last Seen |
 | **Bitcoin Core** ([rpc](https://github.com/bitcoin/bitcoin)) | getblockchaininfo, getblockhash, getblock, getblockcount, getchaintips, getdifficulty, getmempoolinfo, getrawmempool, gettxout, getbestblockhash, getnetworkinfo, getconnectioncount, getpeerinfo, ping, getnettotals, getwalletinfo, getbalance, listunspent, getnewaddress, dumpprivkey, listtransactions, getreceivedbyaddress, gettransaction, getmininginfo, getblocktemplate, getnetworkhashps, prioritisetransaction, getrawtransaction, decoderawtransaction, sendrawtransaction, createrawtransaction, signrawtransactionwithwallet |
 
-## Summary
-This document serves as a reference for extracted attributes from blockchain parsers and tools. Each tool offers unique features and data structures, aiding in blockchain research and analysis.
+
